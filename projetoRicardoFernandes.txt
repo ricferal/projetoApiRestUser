@@ -1,0 +1,12 @@
+
+--> Ricardo Fernandes de Almeida:
+--> o arquivo do vídeo (projetoApiUser.webm) carregar no software VLC.
+--> em spring.jpa.hibernate.ddl-auto=create
+depois mudar para update, com create vai ficar sempre gerando as tabelas (User/Profile) caso queira.
+
+-->Tecnologias:
+Spring Tool Suite 4
+JPA
+MySQL (Lampp --> phpMyAdmin)
+Spring Security
+Api Rest do Spring
