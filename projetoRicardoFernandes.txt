@@ -10,3 +10,4 @@ JPA
 MySQL (Lampp --> phpMyAdmin)
 Spring Security
 Api Rest do Spring
+Postman (teste)
